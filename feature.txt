@@ -1,1 +1,3 @@
 Here's my new feature
+Edited a line
+Added a new line
